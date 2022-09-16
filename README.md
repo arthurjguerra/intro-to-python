@@ -8,7 +8,7 @@ Add 3 functions to the Python module created in Problem #1:
 1. Function that multiples two integers
 1. Function that divides two integers
 
-Your *functions* should use variables, but you can call them in your module with hard-coded values. It is expected from your module to be called by the terminal and the output will be as follows:
+Your *functions* should use variables, but you can call them in your module with hard-coded values. It is expected from your module to be called via terminal and the output will be as follows:
 ```
 $ python3 <script>.py
 The result of 6 - 3 is 3.
