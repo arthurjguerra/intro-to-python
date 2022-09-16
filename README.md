@@ -11,6 +11,7 @@ Add 3 functions to the Python module created in Problem #1:
 Your *functions* should use variables, but you can call them in your module with hard-coded values. It is expected from your module to be called via terminal and the output will be as follows:
 ```
 $ python3 <script>.py
+The result of 6 + 3 is 9.
 The result of 6 - 3 is 3.
 The result of 6 x 3 is 18.
 The result of 6 / 3 is 2.
