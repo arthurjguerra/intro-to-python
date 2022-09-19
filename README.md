@@ -1,6 +1,9 @@
 # intro-to-python
 Introduction to Python
 
+# Problem #3
+Create a Python module with the code implemented in Problem #2. Then, implement a main script that will be used as the entrypoint of your module to call all the module functions from it.
+
 # Problem #2
 Add 3 functions to the Python module created in Problem #1:
 
