@@ -1,6 +1,9 @@
 # intro-to-python
 Introduction to Python
 
+# Problem #4
+Encapsulate all the functions from the module created in Problem #3 into a class named: `Calculator`. The main script also created in Problem #2 should work the same.
+
 # Problem #3
 Create a Python module with the code implemented in Problem #2. Then, implement a main script that will be used as the entrypoint of your module to call all the module functions from it.
 
