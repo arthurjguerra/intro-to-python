@@ -4,28 +4,33 @@
 
 class Calculator:
 
+	def __init__(self, A, B):
+		self.A = A
+		self.B = B
+		
+
 	#Print result fuction 
-	def show_result(self,A,B,sign,x):
-	    print('The result of ' + str(A) + sign + str(B) + ' is ' + str(x) + '.')
+	def show_result(self, sign, x):
+	    print('The result of ' + str(self.A) + sign + str(self.B) + ' is ' + str(x) + '.')
 	    
 	# Sum function
-	def sum_method(self,A,B):
-	    C = A + B
+	def sum_method(self):
+	    C = self.A + self.B
 	    return C
 	    
 	# Subtract function
-	def subtract_method(self,A,B):
-	    C = A - B
+	def subtract_method(self):
+	    C = self.A - self.B
 	    return C
 
 	# Multiply function
-	def multiply_method(self,A,B):
-	    C = A * B
+	def multiply_method(self):
+	    C = self.A * self.B
 	    return C
 
 	#Divide function
-	def divide_method(self,A,B):
-	    C = A / B
+	def divide_method(self):
+	    C = self.A / self.B
 	    return C
 
 class SciCalculator:
